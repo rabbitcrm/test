@@ -1,5 +1,0 @@
-RewriteEngine on
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond $1 !^(index\.php|config|images|user_guide|robots\.txt)
-RewriteRule ^(.*)$ index.php?/$1 [L]

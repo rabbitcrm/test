@@ -1,6 +1,0 @@
-[11-Aug-2014 05:24:12 CST6CDT] PHP Fatal error:  Cannot redeclare dashboard::getComTask() in /home/skyzon26/public_html/crm4/app/controllers/dashboard.php on line 244
-[19-Aug-2014 02:26:26 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/skyzon26/public_html/crm4/app/controllers/leads.php on line 95
-[19-Aug-2014 02:49:22 CST6CDT] PHP Fatal error:  Using $this when not in object context in /home/skyzon26/public_html/crm4/app/controllers/leads.php on line 2
-[22-Aug-2014 04:55:20 CST6CDT] PHP Fatal error:  Call to a member function database() on a non-object in /home/skyzon26/public_html/crm4/app/helpers/rabbit_helper.php on line 7
-[22-Aug-2014 04:55:59 CST6CDT] PHP Fatal error:  Call to a member function database() on a non-object in /home/skyzon26/public_html/crm4/app/helpers/rabbit_helper.php on line 7
-[22-Aug-2014 04:56:11 CST6CDT] PHP Fatal error:  Call to a member function database() on a non-object in /home/skyzon26/public_html/crm4/app/helpers/rabbit_helper.php on line 7
