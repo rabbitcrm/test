@@ -1,0 +1,11 @@
+mail() on [/home/skyzon26/public_html/crm4/assets/mail.php:34]: To: somebody@example.com, somebodyelse@example.com -- Headers: MIME-Version: 1.0  Content-type:text/html;charset=UTF-8  From: <webmaster@example.com>  Cc: myboss@example.com
+mail() on [/home/skyzon26/public_html/crm4/assets/mail.php:34]: To: somebody@example.com, somebodyelse@example.com -- Headers: MIME-Version: 1.0  Content-type:text/html;charset=UTF-8  From: <webmaster@example.com>  Cc: myboss@example.com
+mail() on [/home/skyzon26/public_html/crm4/assets/mail.php:12]: To: yourplace@somewhere.com -- Headers: From: myplace@here.com  Reply-To: myplace2@here.com  Return-Path: myplace@here.com  CC: sombodyelse@noplace.com  BCC: hidden@special.com
+mail() on [/home/skyzon26/public_html/crm4/assets/mail.php:12]: To: yourplace@somewherdddddde.com -- Headers: From: myplace@here.com  Reply-To: myplace2@here.com  Return-Path: myplace@here.com
+mail() on [/home/skyzon26/public_html/crm4/assets/mail.php:12]: To:  -- Headers: From: myplace@here.com  Reply-To: myplace2@here.com  Return-Path: myplace@here.com
+mail() on [/home/skyzon26/public_html/crm4/assets/mail.php:12]: To:  -- Headers: From: myplace@here.com  Reply-To: myplace2@here.com  Return-Path: myplace@here.com
+mail() on [/home/skyzon26/public_html/crm4/assets/mail.php:12]: To: dsffffff -- Headers: From: myplace@here.com  Reply-To: myplace2@here.com  Return-Path: myplace@here.com
+mail() on [/home/skyzon26/public_html/crm4/assets/mail.php:12]: To: dsffffff -- Headers: From: myplace@here.com  Reply-To: myplace2@here.com  Return-Path: myplace@here.com
+mail() on [/home/skyzon26/public_html/crm4/assets/mail.php:12]: To: fdasdas -- Headers: From: myplace@here.com  Reply-To: myplace2@here.com  Return-Path: myplace@here.com
+mail() on [/home/skyzon26/public_html/crm4/assets/mail.php:12]: To: developer@skyzon.com -- Headers: From: myplace@here.com  Reply-To: myplace2@here.com  Return-Path: myplace@here.com
+mail() on [/home/skyzon26/public_html/crm4/assets/mail.php:12]: To: developer@skyzon.comaaa -- Headers: From: myplace@here.com  Reply-To: myplace2@here.com  Return-Path: myplace@here.com

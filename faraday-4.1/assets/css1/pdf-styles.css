@@ -1,0 +1,93 @@
+html {
+  position: relative;
+  min-height: 100%;
+  overflow-x: hidden;
+}
+body {
+  width: 960px;
+  color: #656565;
+  overflow-x: hidden;
+  margin: 0;
+  font-family: 'Open Sans',"HelveticaNeue", "Helvetica Neue", Helvetica, Arial,sans-serif;
+  font-size: 32px;
+}
+
+a {
+  color: #3a5a7a;
+  text-decoration: none;
+}
+
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+
+table.with-border {
+  border-collapse: collapse;
+}
+table.with-border td {
+  border: 1px solid #eaedef;
+  text-align: center;
+  border-left-color: #fff;
+  border-right-color: #fff;
+}
+table.with-border th {
+  border: 1px solid #fff;
+  text-align: center;
+}
+.table {
+  max-width: 100%;
+  width: 100%;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {
+  padding: 8px;
+  line-height: 1.428571429;
+  vertical-align: top;
+}
+.table > thead > tr > th {
+  vertical-align: bottom;
+}
+
+.bg-white { 
+  background-color: #fff;
+}
+.no-border {
+  border-color: #fff !important;
+}
+.padder {
+  padding: 0 15px;
+}
+.m-t { margin-top: 15px;
+}
+.m-b {
+  margin-bottom: 15px;
+}
+
+h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+h3, h5 {
+  background-color: #eaedef;
+}
+.well {
+  min-height: 20px;
+  padding: 20px;
+  background-color: #eaedef;
+}
+.well td {
+  border: 1px solid #eaedef;
+  border-radius: 3px;
+}

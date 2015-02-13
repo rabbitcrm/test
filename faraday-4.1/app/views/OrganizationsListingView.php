@@ -1,0 +1,1 @@
+<?php $this->load->view('DataTableView', array('cols' => array_values($this->orgTableCols), 'sourcePath' => "admin/getorgsjson")); ?>
